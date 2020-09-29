@@ -33,6 +33,13 @@
       "multi_line_comments": [["/*", "*/"]],
       "extensions": ["als"]
     },
+    "Ampersand": {
+      "line_comment": ["#"],
+      "important_syntax": ["#!"],
+      "quotes": [["\\\"", "\\\""]],
+      "env": ["etci"],
+      "extensions": ["amp"]
+    },
     "Arduino": {
       "name": "Arduino C++",
       "line_comment": ["//"],
